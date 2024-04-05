@@ -86,7 +86,7 @@ NHN Academy 최종 프로젝트
 2. 공기청정기 on/off + 날씨정보 학습
 3. 침입 탐지 (이상치) -> 학원 12시 폐쇄. 경비원 고려.
 
-# 개발 계획서
+## 개발 계획서
 
 **문서** : https://docs.google.com/document/d/1YxccoXC3w690PXhy7PwKs554dly0-71KKP9yUywxLnE/edit?usp=sharing
 
