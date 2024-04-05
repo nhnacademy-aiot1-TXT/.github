@@ -44,6 +44,8 @@ NHN Academy 최종 프로젝트
 
 ## 요구사항
 
+**문서** : https://docs.google.com/spreadsheets/d/1i29hHcz0Vs1TE9rX25X1P9sBV4n3-KYcTEr3zKWq_7g/edit?usp=sharing
+
 ### 🌱 IoT 
 - 담당 : 정준호, 남지민
 1. 센서정보 수집
@@ -86,7 +88,7 @@ NHN Academy 최종 프로젝트
 
 # 개발 계획서
 
-문서 : https://docs.google.com/document/d/1YxccoXC3w690PXhy7PwKs554dly0-71KKP9yUywxLnE/edit?usp=sharing
+**문서** : https://docs.google.com/document/d/1YxccoXC3w690PXhy7PwKs554dly0-71KKP9yUywxLnE/edit?usp=sharing
 
 ### 프로젝트명: 재실기반 자동화 시스템
 
