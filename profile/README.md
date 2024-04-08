@@ -42,6 +42,12 @@ NHN Academy 최종 프로젝트
 </div>
 
 
+## 와이어프레임
+링크 : https://www.figma.com/file/GugzS1krwmv4w0w8RzK2QJ/TXT?type=design&node-id=0%3A1&mode=design&t=liBJTyjXHIDNVLut-1
+
+## 도메인
+링크 : contxt.co.kr
+
 ## 요구사항
 
 **문서** : https://docs.google.com/spreadsheets/d/1i29hHcz0Vs1TE9rX25X1P9sBV4n3-KYcTEr3zKWq_7g/edit?usp=sharing
