@@ -46,7 +46,12 @@ NHN Academy 최종 프로젝트
 링크 : https://www.figma.com/file/GugzS1krwmv4w0w8RzK2QJ/TXT?type=design&node-id=0%3A1&mode=design&t=liBJTyjXHIDNVLut-1
 
 ## 도메인
-링크 : contxt.co.kr
+링크 : https://contxt.co.kr
+
+## Architecture 구조도
+링크 : https://drive.google.com/file/d/1eai237ikC1wwMD1JFQpnBdK9lpWvkeiA/view?usp=sharing
+
+## ERD
 
 ## 요구사항
 
