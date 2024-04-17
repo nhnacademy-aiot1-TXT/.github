@@ -50,8 +50,7 @@ NHN Academy 최종 프로젝트
 
 ## Architecture 구조도
 링크 : https://drive.google.com/file/d/1eai237ikC1wwMD1JFQpnBdK9lpWvkeiA/view?usp=sharing
-![image](https://github.com/nhnacademy-aiot1-TXT/.github/assets/87704860/b9b74c4c-5918-431e-8ad9-eda36f146af3)
-
+![finalProject-TxT Architecture drawio](https://github.com/nhnacademy-aiot1-TXT/.github/assets/87704860/cd8c2442-6ffa-4c8c-9d09-529c637a98d3)
 
 ## ERD
 
