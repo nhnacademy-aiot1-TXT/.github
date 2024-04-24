@@ -1,7 +1,10 @@
 # NHN Academy 최종 프로젝트 2팀 - TxT
 NHN Academy 최종 프로젝트
 
-![txt](https://github.com/nhnacademy-aiot1-TXT/.github/assets/92835879/d3886830-f227-486d-8a26-db7dc860d09d)
+<p align="center">
+  <img src = "https://github.com/nhnacademy-aiot1-TXT/.github/assets/92835879/d3886830-f227-486d-8a26-db7dc860d09d">
+</p>
+
 
 ## 팀원
 
