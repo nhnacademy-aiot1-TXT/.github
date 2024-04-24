@@ -1,6 +1,8 @@
 # NHN Academy 최종 프로젝트 2팀 - TxT
 NHN Academy 최종 프로젝트
 
+![minimalistic-txt-logo-bold-uppercase-letters-interlocked-negative-space-design-black-and-white-c](https://github.com/nhnacademy-aiot1-TXT/.github/assets/87704860/fcb1cc12-a972-42f5-960c-cc543430216a)
+
 
 ## 팀원
 
