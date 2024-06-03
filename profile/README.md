@@ -56,6 +56,18 @@ NHN Academy 최종 프로젝트
 링크 : https://drive.google.com/file/d/1eai237ikC1wwMD1JFQpnBdK9lpWvkeiA/view?usp=sharing
 ![스크린샷 2024-05-31 09-06-45](https://github.com/nhnacademy-aiot1-TXT/.github/assets/87704860/48f08b84-4ba1-4c73-817d-aeae7870801c)
 
+
+## 세부 Architecture 구조도
+
+### Architecture - WEB
+
+![image](https://github.com/nhnacademy-aiot1-TXT/TxT-AI-predict/assets/99951904/31ee7d09-d550-4962-bb77-42f7f360575f)
+
+### Architecture - WEB
+
+![image](https://github.com/nhnacademy-aiot1-TXT/TxT-AI-predict/assets/99951904/cfd155b0-745e-4290-ab67-161a52df4493)
+
+
 ## ERD
 
 ## 요구사항
@@ -265,6 +277,7 @@ Smart Academy는 학생들에게 쾌적한 학습환경을 제공하기 위해 �
 * AI 개발:
    * 환경 데이터 분석을 통한 AI 알고리즘 학습 모델 개발
       * 시간, 실내외 온습도, 재실인원 학습
+      * XG Boost 알고리즘 사용
    * 모델을 활용한 아카데미 환경 최적화
       * 학습된 AI를 통한 에어컨 제어
    * predict 서버를 이용하여 예측치를 통해 학습 환경 자동 제어
