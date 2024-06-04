@@ -1,12 +1,20 @@
 # NHN Academy 최종 프로젝트 2팀 - TxT
-NHN Academy 최종 프로젝트
+
+## 💻 프로젝트 소개
+- Smart Academy - 환경 모니터링 및 장치 제어 시스템
+- 실내 환경을 모니터링하고 장치를 자동 및 수동으로 제어함으로서 쾌적한 업무 환경을 유지할 수 있는 서비스 입니다.
+
+## ⌛ 개발 기간
+- 24.03.25 - 24.06.05 (72일)
+
+## 🌈 [도메인](https://contxt.co.kr)
 
 <p align="center">
   <img src = "https://github.com/nhnacademy-aiot1-TXT/.github/assets/92835879/d3886830-f227-486d-8a26-db7dc860d09d">
 </p>
 
 
-## 팀원
+## 🧑‍🤝‍🧑 팀원
 
 <table>
   <tbody>
@@ -23,7 +31,7 @@ NHN Academy 최종 프로젝트
   </tbody>
 </table>
 
-## 기술 스택
+## ⚙️ 기술 스택
 
 <div align="center">
   <h3 align="center"> Languages & Tools </h3>
@@ -46,33 +54,9 @@ NHN Academy 최종 프로젝트
 </div>
 
 
-## 와이어프레임
-링크 : https://www.figma.com/file/GugzS1krwmv4w0w8RzK2QJ/TXT?type=design&node-id=0%3A1&mode=design&t=liBJTyjXHIDNVLut-1
-
-## 도메인
-링크 : https://contxt.co.kr
-
-## Architecture 구조도
-링크 : https://drive.google.com/file/d/1eai237ikC1wwMD1JFQpnBdK9lpWvkeiA/view?usp=sharing
-![스크린샷 2024-05-31 09-06-45](https://github.com/nhnacademy-aiot1-TXT/.github/assets/87704860/48f08b84-4ba1-4c73-817d-aeae7870801c)
 
 
-## 세부 Architecture 구조도
-
-### Architecture - WEB
-
-![image](https://github.com/nhnacademy-aiot1-TXT/TxT-AI-predict/assets/99951904/31ee7d09-d550-4962-bb77-42f7f360575f)
-
-### Architecture - WEB
-
-![image](https://github.com/nhnacademy-aiot1-TXT/TxT-AI-predict/assets/99951904/cfd155b0-745e-4290-ab67-161a52df4493)
-
-
-## ERD
-
-## 요구사항
-
-**문서** : https://docs.google.com/spreadsheets/d/1i29hHcz0Vs1TE9rX25X1P9sBV4n3-KYcTEr3zKWq_7g/edit?usp=sharing
+##  역할
 
 ### 🌱 IoT 
 - 담당 : 정준호, 남지민
@@ -117,13 +101,36 @@ NHN Academy 최종 프로젝트
    
 ### 🌱 AI
 - 담당 : 남가형, 이주현
-1. 에어컨 on/off
-2. 공기청정기 on/off + 날씨정보 학습
-3. 침입 탐지 (이상치) -> 학원 12시 폐쇄. 경비원 고려.
-4. 데이터를 바탕으로 환경 예측
+1. 환경정보에 따른 에어컨 on/off 여부 데이터 분석
+2. 에어컨 on/off 예측 AI 모델
+3. AI 모델을 사용하여 에어컨 ON/OFF 정보 예측
 
 
-## 개발 계획서
+---
 
-**문서** : https://docs.google.com/document/d/1YxccoXC3w690PXhy7PwKs554dly0-71KKP9yUywxLnE/edit?usp=sharing
+## [Architecture 구조도](https://drive.google.com/file/d/1eai237ikC1wwMD1JFQpnBdK9lpWvkeiA/view?usp=sharing)
+![스크린샷 2024-05-31 09-06-45](https://github.com/nhnacademy-aiot1-TXT/.github/assets/87704860/48f08b84-4ba1-4c73-817d-aeae7870801c)
+
+## 세부 Architecture 구조도
+### Architecture - WEB
+![image](https://github.com/nhnacademy-aiot1-TXT/TxT-AI-predict/assets/99951904/31ee7d09-d550-4962-bb77-42f7f360575f)
+
+### Architecture -  AIOT
+![image](https://github.com/nhnacademy-aiot1-TXT/TxT-AI-predict/assets/99951904/cfd155b0-745e-4290-ab67-161a52df4493)
+
+## [ERD](https://www.erdcloud.com/d/JKWnLZnQtqwDcvroH)
+![txtERD](https://github.com/nhnacademy-aiot1-TXT/.github/assets/140566942/124d9ad6-abfe-47f1-97c0-3032f3728fd2)
+
+
+## [요구사항 명세서](https://docs.google.com/spreadsheets/d/1i29hHcz0Vs1TE9rX25X1P9sBV4n3-KYcTEr3zKWq_7g/edit?usp=sharing)
+
+## [개발 계획서](https://docs.google.com/document/d/1YxccoXC3w690PXhy7PwKs554dly0-71KKP9yUywxLnE/edit?usp=sharing)
+
+## [와이어프레임](https://www.figma.com/file/GugzS1krwmv4w0w8RzK2QJ/TXT?type=design&node-id=0%3A1&mode=design&t=liBJTyjXHIDNVLut-1)
+
+
+
+
+
+
 
