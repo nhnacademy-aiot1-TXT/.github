@@ -106,8 +106,6 @@
 3. AI 모델을 사용하여 에어컨 ON/OFF 정보 예측
 
 
----
-
 ## 📋 [Architecture 구조도](https://drive.google.com/file/d/1eai237ikC1wwMD1JFQpnBdK9lpWvkeiA/view?usp=sharing)
 ![스크린샷 2024-05-31 09-06-45](https://github.com/nhnacademy-aiot1-TXT/.github/assets/87704860/48f08b84-4ba1-4c73-817d-aeae7870801c)
 
