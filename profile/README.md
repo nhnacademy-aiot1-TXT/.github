@@ -1,4 +1,12 @@
-# NHN Academy 최종 프로젝트 2팀 - TxT
+<p align='center'>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=9dc5d2&height=300&section=header&text=TXT&fontSize=90&animation=fadeIn&fontAlignY=38&desc=NHN%20Academy%20최종%20프로젝트%202팀%20&descAlignY=57&descAlign=50"/>
+</p>
+<p align="center">
+  <img src = "https://github.com/nhnacademy-aiot1-TXT/.github/assets/92835879/d3886830-f227-486d-8a26-db7dc860d09d" width="300px;" height="300px;">
+</p>
+<br></br>
+<h3 align="center">서로 다른 너와 내가 하나의 꿈으로 모여 함께 내일을 만들어 가는 TXT 입니다.</h3>
+<br></br>
 
 ## 💻 프로젝트 소개
 - Smart Academy - 환경 모니터링 및 장치 제어 시스템
@@ -8,12 +16,7 @@
 - 24.03.25 - 24.06.05 (72일)
 
 ## 🌈 [도메인](https://contxt.co.kr)
-
-<p align="center">
-  <img src = "https://github.com/nhnacademy-aiot1-TXT/.github/assets/92835879/d3886830-f227-486d-8a26-db7dc860d09d">
-</p>
-
-
+![스크린샷 2024-06-05 09-04-58](https://github.com/nhnacademy-aiot1-TXT/.github/assets/92835879/871744f4-d23d-4eb9-ae27-e4df0f63a408)
 ## 🧑‍🤝‍🧑 팀원
 
 <table>
