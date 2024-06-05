@@ -16,7 +16,7 @@
 - 24.03.25 - 24.06.05 (72일)
 
 ## 🌈 [도메인](https://contxt.co.kr)
-![스크린샷 2024-06-05 09-04-58](https://github.com/nhnacademy-aiot1-TXT/.github/assets/92835879/871744f4-d23d-4eb9-ae27-e4df0f63a408)
+![스크린샷 2024-06-05 09-26-55](https://github.com/nhnacademy-aiot1-TXT/.github/assets/92835879/8288bf23-d1ac-41f6-b70a-8fe9dde1bd9a)
 ## 🧑‍🤝‍🧑 팀원
 
 <table>
